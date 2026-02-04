@@ -18,10 +18,13 @@ Built with **Kotlin + Jetpack Compose**.
 
 ## Screenshots
 
+### Empty state
 ![Empty state](https://raw.githubusercontent.com/ArtjomAbdukarimov/request-tracker-android/main/screenshots/01_empty.png)
 
+### Requests list
 ![Requests list](https://raw.githubusercontent.com/ArtjomAbdukarimov/request-tracker-android/main/screenshots/02_list.png)
 
+### CSV export
 ![CSV export](https://raw.githubusercontent.com/ArtjomAbdukarimov/request-tracker-android/main/screenshots/03_export.png)
 
 ## How to run
