@@ -18,13 +18,8 @@ Built with **Kotlin + Jetpack Compose**.
 
 ## Screenshots
 
-### Empty state
 ![Empty state](screenshots/01_empty.png)
-
-### Requests list
 ![Requests list](screenshots/02_list.png)
-
-### CSV export
 ![CSV export](screenshots/03_export.png)
 
 ## How to run
