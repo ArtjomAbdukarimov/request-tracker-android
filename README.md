@@ -19,7 +19,7 @@ Built with **Kotlin + Jetpack Compose**.
 ## Screenshots
 
 **Empty state**  
-![](./screenshots/01_empty.png)
+![](screenshots/01_empty.png](https://github.com/ArtjomAbdukarimov/request-tracker-android/blob/main/screenschots/01_empty.png)
 
 **Requests list**  
 ![](./screenshots/02_list.png)
