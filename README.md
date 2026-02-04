@@ -15,6 +15,7 @@ Built with **Kotlin + Jetpack Compose**.
 - Kotlin, Jetpack Compose (Material 3)
 - Room (KSP), Flow
 - MVVM (AndroidViewModel), Navigation Compose
+
 ## Screenshots
 
 ### Empty state
