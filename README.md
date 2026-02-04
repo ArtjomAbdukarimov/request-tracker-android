@@ -37,3 +37,4 @@ The app focuses on:
 - simple, clear workflow states
 - basic data quality rules (mandatory title, consistent statuses)
 - exportable data for reporting / handoff (CSV)
+
