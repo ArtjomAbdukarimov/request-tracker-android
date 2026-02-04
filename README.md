@@ -19,13 +19,13 @@ Built with **Kotlin + Jetpack Compose**.
 ## Screenshots
 
 **Empty state**  
-![](screenshots/01_empty.png](https://github.com/ArtjomAbdukarimov/request-tracker-android/blob/main/screenschots/01_empty.png)
+![](https://raw.githubusercontent.com/ArtjomAbdukarimov/request-tracker-android/main/screenshots/01_empty.png)
 
 **Requests list**  
-![](./screenshots/02_list.png)
+![](https://raw.githubusercontent.com/ArtjomAbdukarimov/request-tracker-android/main/screenshots/02_list.png)
 
 **CSV export**  
-![](./screenshots/03_export.png)
+![](https://raw.githubusercontent.com/ArtjomAbdukarimov/request-tracker-android/main/screenshots/03_export.png)
 
 ## How to run
 1. Open the project in **Android Studio**
