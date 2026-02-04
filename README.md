@@ -19,7 +19,7 @@ Built with **Kotlin + Jetpack Compose**.
 ## Screenshots
 | Empty state | Requests list | CSV export |
 |---|---|---|
-| ![](screenshots/01_empty.png) | ![](screenshots/02_list.png) | ![](screenshots/03_export.png) |
+| ![](./screenshots/01_empty.png) | ![](./screenshots/02_list.png) | ![](./screenshots/03_export.png) |
 
 ## How to run
 1. Open the project in **Android Studio**
